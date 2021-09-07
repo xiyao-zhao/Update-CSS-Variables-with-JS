@@ -1,7 +1,7 @@
 # Update-CSS-Variables-with-JS
 
 
-A project is built with HTML, CSS, and JavaScript. Set CSS variables, and change spacing, blur level and background color with JS.
+A project is built with HTML, CSS, and JavaScript. Set CSS variables, and change spacing, blur level and background color of the image with JS.
 
 Techniques Highlight:
 
