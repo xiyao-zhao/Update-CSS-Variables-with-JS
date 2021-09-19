@@ -3,7 +3,7 @@
 
 A project is built with HTML, CSS, and JavaScript. Set CSS variables, and change spacing, blur level and background color of the image with JS.
 
-Techniques Highlight:
+Main properties & methods used in this project:
 
 CSS: set and use variables, fix collapsing margins.
 
